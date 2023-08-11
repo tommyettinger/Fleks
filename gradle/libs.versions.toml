@@ -13,6 +13,7 @@ kotlinxBenchmark-runtime = { module = "org.jetbrains.kotlinx:kotlinx-benchmark-r
 
 ashley = { module = "com.badlogicgames.ashley:ashley", version = "1.7.4" }
 artemisOdb = { module = "net.onedaybeard.artemis:artemis-odb", version = "2.3.0" }
+dominion = { module = "dev.dominion.ecs:dominion-ecs-engine", version = "0.9.0" }
 
 gradlePlugin-kotlin = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlin" }
 gradlePlugin-kotlinSerialization = { module = "org.jetbrains.kotlin:kotlin-serialization", version.ref = "kotlin" }

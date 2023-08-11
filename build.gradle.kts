@@ -43,6 +43,7 @@ kotlin {
                 implementation(libs.kotlinxBenchmark.runtime)
                 implementation(libs.ashley)
                 implementation(libs.artemisOdb)
+                implementation(libs.dominion)
             }
         }
     }
